@@ -1,54 +1,6 @@
 //Objetos//
 let times=[
-   { 
-      [{"nome":"Acel chopinzinho futsal","goleiro":"Leo paraisoto","alaDireita":"matheus mendes","alaEsquerda":"Lucas da silva","pivo":"Breno felipe","fixo":"cubano","tecnico":"daniel junior","vitorias":0,"derrotas":0},
-      {"nome":"Bahia","goleiro":"eduardo","alaDireita":"jaime","alaEsquerda":"romarinho","pivo":"bill","fixo":"jota","tecnico":"vinicios","vitorias":0,"derrotas":0},
-      {"nome":"Palmeiras","goleiro":"Heitor","alaDireita":"joazinho bezerra","alaEsquerda":"philipe","pivo":"kayke","fixo":"luisinho","tecnico":"Pietro","vitorias":0,"derrotas":0},{"nome":"Santos","goleiro":"vitor","alaDireita":"gustavo","alaEsquerda":"samuel","pivo":"luan","fixo":"Marquinhos","tecnico":"Márica","vitorias":0,"derrotas":97},
-      {"nome":"Furacão","goleiro":"carlinhos","alaDireita":"pedro","alaEsquerda":"esquerda","pivo":"leozinho","fixo":"Gabriel gomes","tecnico":"Manu vieira","vitorias":0,"derrotas":0}]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
+   {      
       nome: "Marreco Futsal",
       goleiro: "Rafa Freitas",
       aladireita: "Meleca",
@@ -71,37 +23,37 @@ let times=[
     derrotas:4,
   } ,
   {
-    nome: "Itambé/Minas",
-    goleiro: "Anderson",
-    aladireita: "Baron",
-    alaesquerda: "Pintinho",
-    pivô: "Felipão",
-    fixo: "Gui Lopes",
-    técnico: "Diogo Barros",
-    vitorias: 21,
-    derrotas:10,
+    nome: "Bahia",
+    goleiro: "eduardo",
+    aladireita: "jaime",
+    alaesquerda: "romarinho",
+    pivô: "bill",
+    fixo: "jota",
+    técnico: "vinicius",
+    vitorias: 0,
+    derrotas:0,
   },
   {
-    nome: "Santo André",
-    goleiro: "Caio",
-    aladireita: "Xaropinho",
-    alaesquerda: "Mendes",
-    pivô: "Dudu",
-    fixo: "Felipe",
-    técnico: "Cidão",
-    vitorias: 20,
-    derrotas:19,
+    nome: "Palameira",
+    goleiro: "heitor",
+    aladireita: "joaozinhobezzera",
+    alaesquerda: "philipe",
+    pivô: "kayke",
+    fixo: "luisinho",
+    técnico: "pietro",
+    vitorias: 0,
+    derrotas:0,
   },
   {
-    nome: "Cascavel",
-    goleiro: "Jackson",
-    aladireita: "Elano",
-    alaesquerda: "Zequinha",
-    pivô: "Vini",
-    fixo: "Carlão",
-    técnico: "Deividy",
-    vitorias: 23,
-    derrotas:10,
+    nome: "Santos",
+    goleiro: "vitor",
+    aladireita: "gustavo",
+    alaesquerda: "samuel",
+    pivô: "luan",
+    fixo: "Marquinhos",
+    técnico: "Márica",
+    vitorias: 0,
+    derrotas:0,
   }
 ];
 
