@@ -1,6 +1,54 @@
 //Objetos//
 let times=[
-   {
+   { 
+      [{"nome":"Acel chopinzinho futsal","goleiro":"Leo paraisoto","alaDireita":"matheus mendes","alaEsquerda":"Lucas da silva","pivo":"Breno felipe","fixo":"cubano","tecnico":"daniel junior","vitorias":0,"derrotas":0},
+      {"nome":"Bahia","goleiro":"eduardo","alaDireita":"jaime","alaEsquerda":"romarinho","pivo":"bill","fixo":"jota","tecnico":"vinicios","vitorias":0,"derrotas":0},
+      {"nome":"Palmeiras","goleiro":"Heitor","alaDireita":"joazinho bezerra","alaEsquerda":"philipe","pivo":"kayke","fixo":"luisinho","tecnico":"Pietro","vitorias":0,"derrotas":0},{"nome":"Santos","goleiro":"vitor","alaDireita":"gustavo","alaEsquerda":"samuel","pivo":"luan","fixo":"Marquinhos","tecnico":"Márica","vitorias":0,"derrotas":97},
+      {"nome":"Furacão","goleiro":"carlinhos","alaDireita":"pedro","alaEsquerda":"esquerda","pivo":"leozinho","fixo":"Gabriel gomes","tecnico":"Manu vieira","vitorias":0,"derrotas":0}]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
       nome: "Marreco Futsal",
       goleiro: "Rafa Freitas",
       aladireita: "Meleca",
