@@ -24,14 +24,14 @@ function criarArquivo(){
     console.log("Arquivo criado");
 }
 
-function marcarJogos(timeA, timeB, data, horario, estadio, cidade){
+function marcarJogos(timeA, timeB, data, horario, ginasio, cidade){
     let jogos = require("./jogos.json");
     jogo = {
         timeA: timeA,
         timeB: timeB,
         data: data,
         horario: horario,
-        estadio: estadio,
+        ginasio: ginasio,
         cidade: cidade,
     }
     jogos.push(jogo);
@@ -39,7 +39,8 @@ function marcarJogos(timeA, timeB, data, horario, estadio, cidade){
     const fs = require('fs');
     fs.writeFileSync("jogos.json", jogosJSON);
 }
-marcarJogos("Santos", "Flamengo" , "")
+marcarJogos("Marreco", "Acel chopinzinho futsal" , "25/07/2025", "17:00", "Complexo Esportivo Arrudão", "Francisco beltrão")
 //criarArquivo();
 
 verTimes();
+marcarJogos();
